@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Mentorías",
+  "description": "Plataforma para el seguimiento de alumnos mentorizados, registro de sesiones y visualización de calendario con estados de asistencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
